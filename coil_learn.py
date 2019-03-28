@@ -7,7 +7,7 @@ cwd = os.getcwd()
 print(cwd)
 df = pd.read_csv(cwd + '/cleanedDatafiles/coil_clean.csv')
 # We have data for years 2011-2017.  11-17 are possible values for "year".
-year = '14'
+year = '17'
 
 # %%
 
